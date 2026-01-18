@@ -1,2 +1,4 @@
-﻿flask
-requests
+
+python-telegram-bot
+pymongo
+dnspython
