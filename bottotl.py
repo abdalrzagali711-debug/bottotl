@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Mess
 from pymongo import MongoClient
 
 # --- الإعدادات الخاصة بك ---
-TOKEN = "8597943520:AAEbCQj9Z-91dim6bkKMTVitKklCKo421Ms" 
+TOKEN = "8281006537:AAHRLLMNUkLLPXEY5srwfxDTxR4lc8DU_x8" 
 # الرابط المستخرج من صورتك (جاهز للعمل)
 MONGO_URL = "mongodb+srv://abdalrzagDB:10010207966##@cluster0.fighoyv.mongodb.net/?retryWrites=true&w=majority"
 ADMIN_ID = 5524416062 # ضع هنا رقم الآيدي الخاص بك في تلجرام
